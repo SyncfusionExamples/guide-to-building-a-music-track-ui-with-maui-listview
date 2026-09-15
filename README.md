@@ -1,4 +1,4 @@
-# guide-to-building-a-music-track-ui-with-maui-listview
+# Guide to build a Music Track UI with .NET MAUI ListView (SfListView)
 
 Explains about step by step guide to building a music track ui with .NET MAUI ListView.
 
